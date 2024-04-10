@@ -1,4 +1,4 @@
 # ExploreAI_DataScience
 A repository of projects in my Data Science course at ALX
 
-![My Medium story](@cjmachoka&index=1)](#)">https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@cjmachoka&index=1&source=medium)](#)
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cjmachoka/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cjmachoka/0" alt="Recent Article 0"> 
