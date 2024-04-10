@@ -1,6 +1,6 @@
 # Decision Trees
 
-Read a published article on: https://medium.com/@cjmachoka/how-do-decision-trees-think-ee381458a8d3
+Read the published article on: https://medium.com/@cjmachoka/how-do-decision-trees-think-ee381458a8d3
 
 The article's objectives are to:
 
